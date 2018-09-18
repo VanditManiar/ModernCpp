@@ -30,7 +30,7 @@ int main()
     printVector(v);
 
     /* sort by Function Pointer */
-    sort(v.begin(), v.end(),&isMax);
+    sort(v.begin(), v.end(), &isMax);
 
     cout << "reverse sorted:" << endl;
     printVector(v);
