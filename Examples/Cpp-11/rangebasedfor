@@ -1,0 +1,20 @@
+/*
+  Author : Vandit Maniar
+
+  Easy-Way-Of-Exploring-Cpp/ModernCpp
+  C++ 11 Example : rangebasedfor
+
+*/
+
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+int main() {
+    vector<int> v({1, 2, 3});
+
+    for(auto x : v)
+        cout << x << endl;
+    return 0;
+}
