@@ -1,0 +1,21 @@
+/*
+  Author : Vandit Maniar
+
+  Easy-Way-Of-Exploring-Cpp/ModernCpp
+  C++ 11 Example : constexpr
+
+*/
+
+#include <iostream>
+
+using namespace std;
+
+constexpr int square(int x) {
+    return x * x;
+}
+
+int main()
+{
+    cout << square(5) << endl;
+    return 0;
+}
