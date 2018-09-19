@@ -2,7 +2,7 @@
   Author : Vandit Maniar
 
   Easy-Way-Of-Exploring-Cpp/ModernCpp
-  C++ 11 Example : UserDefinedLiterals
+  C++ 11 Example : userdefinedliterals
 
 */
 
